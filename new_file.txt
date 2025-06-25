@@ -2,6 +2,7 @@ Section 1
 Dhruv was here!
 
 Section 2
+John made these changes
 
 Section 3
 
